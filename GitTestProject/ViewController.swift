@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         print("git")
         print("secound print area")
         print("third print")
+        //after connection
     }
 
 
