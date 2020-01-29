@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("git")
         print("secound print area")
+        print("third print")
     }
 
 
